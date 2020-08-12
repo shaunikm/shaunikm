@@ -4,7 +4,7 @@
 
 ### My #1 favorite hobby...
 ----------------------------
-...is python. I'm a python enthusiast looking for any oppurtunities to excercise my python skills. :smile:
+...is coding. I'm a python enthusiast looking for any oppurtunities to excercise my python skills. :smile:
 
 ### What I am aiming to do...
 -----------------------------
