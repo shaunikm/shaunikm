@@ -1,7 +1,5 @@
 # Hi there!
 
-![Profile views](https://gpvc.arturio.dev/shaunikm)
-
 ### My #1 favorite hobby...
 ----------------------------
 ...is coding. I'm a python enthusiast looking for any oppurtunities to excercise my python skills. :smile:
