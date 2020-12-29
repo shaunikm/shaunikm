@@ -12,3 +12,4 @@ Making my own database.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
 
+(The diagram above is wrong. I only know Python, JavaScript, HTML, and CSS. I'm working to get to know Java though!)
