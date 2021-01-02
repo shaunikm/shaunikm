@@ -11,5 +11,3 @@ Making my own database.
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaunikm&count_private=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
-
-(The diagram above is wrong. I only know Python, JavaScript, HTML, and CSS. I'm working to get to know Java though!)
