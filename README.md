@@ -1,13 +1,21 @@
-# Hi there!
+# Hi there! :smile:
 
-### My #1 favorite hobby...
-----------------------------
-...is coding. I'm a python enthusiast looking for any oppurtunities to excercise my python skills. :smile:
+I'm a 7th grader who can code. :sunglasses:
 
-### What I am aiming to do...
------------------------------
-Making my own database.
+![](https://i.imgur.com/4M7IWwP.gif)
+
+### My Stats :muscle:
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaunikm&count_private=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
+
+![](https://i.imgur.com/4M7IWwP.gif)
+
+### Some good projects (so far) :fire:
+
+- [Easy Database](https://github.com/shaunikm/EasyDB)
+- [Calculator GUI](https://github.com/shaunikm/CalculatorGUI)
+- [Signup-Login Simulator](https://github.com/shaunikm/SignUp-LogIn-Simulator)
+- [Click-Speed Tester](https://github.com/shaunikm/Click-Speed)
+- [Live Coronavirus Feed](https://github.com/shaunikm/LiveCoronaVirusFeed)
