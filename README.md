@@ -4,9 +4,7 @@ I'm a 7th grader who can code. :sunglasses:
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### My Stats :muscle:
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaunikm&count_private=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+### My Favorite Languages :muscle:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
 
