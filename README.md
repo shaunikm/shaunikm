@@ -12,7 +12,7 @@ I'm a 7th grader who can code. :sunglasses:
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### Some good projects (so far) :fire:
+### Some good projects I've made (so far) :fire:
 
 - [Easy Database](https://github.com/shaunikm/EasyDB)
 - [Calculator GUI](https://github.com/shaunikm/CalculatorGUI)
