@@ -1,4 +1,4 @@
-# Hi there! :smile:
+### Hi there! :smile:
 
 I'm a 7th grader who can code. :sunglasses:
 
