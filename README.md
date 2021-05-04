@@ -1,7 +1,5 @@
 ### Hi there! :smile:
 
-I'm a 7th grader who can code. :sunglasses:
-
 ![](https://i.imgur.com/4M7IWwP.gif)
 
 ### Some good projects I've made (so far) :fire:
