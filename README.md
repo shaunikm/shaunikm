@@ -9,6 +9,7 @@
 - [Signup-Login Simulator](https://github.com/shaunikm/SignUp-LogIn-Simulator)
 - [Click-Speed Tester](https://github.com/shaunikm/Click-Speed)
 - [Live Coronavirus Feed](https://github.com/shaunikm/LiveCoronaVirusFeed)
+- [Hyrule Compendium Discord Bot](https://github.com/shaunikm/HyruleCompendium-Bot)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
