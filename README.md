@@ -10,6 +10,8 @@
 - [Click-Speed Tester](https://github.com/shaunikm/Click-Speed)
 - [Live Coronavirus Feed](https://github.com/shaunikm/LiveCoronaVirusFeed)
 - [Hyrule Compendium Discord Bot](https://github.com/shaunikm/HyruleCompendium-Bot)
+- [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API)
+- [Pyrule Compendium](https://github.com/gadhagod/pyrule-compendium)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
