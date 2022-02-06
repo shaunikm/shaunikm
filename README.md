@@ -1,8 +1,8 @@
-### Hi there! :smile:
+### Hi there!
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### Some good projects I've contributed to (so far) :fire:
+### Some good projects I've contributed to (so far)
 
 - [Easy Database](https://github.com/shaunikm/EasyDB)
 - [Calculator GUI](https://github.com/shaunikm/CalculatorGUI)
@@ -14,6 +14,6 @@
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
-### My Favorite Languages :muscle:
+### My Favorite Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
